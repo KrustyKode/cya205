@@ -1,7 +1,7 @@
 # Name:                         led.py
 # Author:                       Michael Sineiro
 # Date of latest revision:      7/21/2024
-# Purpose:                      Controls a PI 4's onboard LED
+# Purpose:                      Controls a PI 4's onboard LED to display SOS in morse code.
 
 import time
 
