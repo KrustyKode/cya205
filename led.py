@@ -1,3 +1,8 @@
+# Name:                         led.py
+# Author:                       Michael Sineiro
+# Date of latest revision:      7/21/2024
+# Purpose:                      Controls a PI 4's onboard LED
+
 import time
 
 # Define the path to the ACT LED
